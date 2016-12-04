@@ -12,4 +12,4 @@ apt-get update
 apt-get install -y linux-image-extra-"$(uname -r)" linux-image-extra-virtual
 
 # install Docker
-apt-get install -y docker-engine=1.12.1-0~wily
+apt-get install -y docker-engine=1.12.3-0~wily
